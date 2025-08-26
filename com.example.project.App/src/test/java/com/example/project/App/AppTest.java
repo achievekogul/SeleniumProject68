@@ -15,7 +15,7 @@ public class AppTest extends TestCases{
 	
 	@BeforeTest
 	public void setUp() {
-		initialization();
+		 initialization();
 	}
 
 	@Test
